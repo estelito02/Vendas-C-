@@ -1,0 +1,14 @@
+H:\Visual Studio 2015\Projects\Vendas_turma\Vendas_turma\bin\Debug\Vendas_turma.exe.config
+H:\visual studio 2015\Projects\Vendas_turma\Vendas_turma\bin\Debug\Vendas_turma.exe
+H:\visual studio 2015\Projects\Vendas_turma\Vendas_turma\bin\Debug\Vendas_turma.pdb
+H:\visual studio 2015\Projects\Vendas_turma\Vendas_turma\obj\Debug\Vendas_turma.csprojResolveAssemblyReference.cache
+H:\visual studio 2015\Projects\Vendas_turma\Vendas_turma\obj\Debug\Vendas_turma.Form1.resources
+H:\visual studio 2015\Projects\Vendas_turma\Vendas_turma\obj\Debug\Vendas_turma.frmPesqProduto.resources
+H:\visual studio 2015\Projects\Vendas_turma\Vendas_turma\obj\Debug\Vendas_turma.FrmVendas.resources
+H:\visual studio 2015\Projects\Vendas_turma\Vendas_turma\obj\Debug\Vendas_turma.Frm_Principal.resources
+H:\visual studio 2015\Projects\Vendas_turma\Vendas_turma\obj\Debug\Vendas_turma.Properties.Resources.resources
+H:\visual studio 2015\Projects\Vendas_turma\Vendas_turma\obj\Debug\Vendas_turma.csproj.GenerateResource.Cache
+H:\visual studio 2015\Projects\Vendas_turma\Vendas_turma\obj\Debug\Vendas_turma.exe
+H:\visual studio 2015\Projects\Vendas_turma\Vendas_turma\obj\Debug\Vendas_turma.pdb
+H:\visual studio 2015\Projects\Vendas_turma\Vendas_turma\bin\Debug\MySql.Data.dll
+H:\visual studio 2015\Projects\Vendas_turma\Vendas_turma\bin\Debug\MySql.Data.xml
